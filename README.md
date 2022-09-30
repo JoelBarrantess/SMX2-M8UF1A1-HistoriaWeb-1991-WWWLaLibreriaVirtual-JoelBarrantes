@@ -19,4 +19,4 @@
 -La Biblioteca Virtual WWW es descendiente directa de la página Overview.html original en el servidor de TBL en Ginebra.
 
 
-<img src="/img/coombs.png" alt="Tim" width="200"/>
+<img src="/img/Coombs.png" alt="Coombs" width="200"/>
