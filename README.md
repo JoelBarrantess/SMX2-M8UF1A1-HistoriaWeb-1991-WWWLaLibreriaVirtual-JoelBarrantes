@@ -6,13 +6,13 @@
 <br />
 # INDICE.
 -----------------------
-### 1. Tim Berners-Lee, el creador de la web.
+### 1. WWW, La Librería Virtual.
 *****************************
 <br />
 <br />
 <br />
 
-## Tim Berners-Lee, el creador de la web
+## WWW, La Librería Virtual.
 
 -Aunque generalmente se dice que la primera página web se escribió el 13 de noviembre de 1990, la web estuvo disponible públicamente el 6 de agosto de 1991. No se sabe que sobreviva ninguna copia de las páginas originales.
 
